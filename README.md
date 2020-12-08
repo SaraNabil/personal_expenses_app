@@ -1,4 +1,4 @@
-# max_cource_app
+# personal_expenses_app
 
 A new Flutter project.
 
